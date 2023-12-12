@@ -1,0 +1,28 @@
+.my{
+    color: rgb(50, 100, 192);
+}
+.about{
+    font-weight: 700;
+}
+.portfolio{
+    color:rgb(50, 100, 192); 
+}
+.recent{
+    font-weight: 700;
+}
+.phillip{
+    color: rgb(50, 100, 192);
+}
+.footer{
+    background-color: white;
+    color:  black;
+}
+.copy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;background-color: rgb(87, 109, 230);
+}
+a{
+    color: black;
+}
